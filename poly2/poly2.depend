@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1600686770 source:c:\users\shivi\documents\poly2\main.cpp
+	<stdio.h>
+	<conio.h>
+	<graphics.h>
+	<math.h>
+	<stdlib.h>
+
